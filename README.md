@@ -58,36 +58,36 @@
 - Tests or verification commands before publishing.
 - Public repositories kept clean: no secrets, private logs, or generated cache noise.
 
-## GitHub Activity
+## GitHub Snapshot
 
-<p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=waseemjutt814&show_icons=true&include_all_commits=true&count_private=false&theme=github_dark&hide_border=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseemjutt814&layout=compact&langs_count=12&theme=github_dark&hide_border=true" />
-</p>
+Third-party stats cards are intentionally not used here because they can fail or rate-limit and leave broken image text on the profile. This section uses simple repo facts and reliable badges instead.
 
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=waseemjutt814&theme=github-dark-blue&hide_border=true" />
-</p>
+| Metric | Current public snapshot |
+| --- | --- |
+| Public repositories | 6 |
+| Public stars | 1 |
+| Primary languages | Python, Rust, TypeScript, C++, HTML |
+| Main domains | AI agents, developer tools, mission-control runtimes, distributed ML, prompt engineering |
+
+## Language Coverage
+
+| Language / area | Repositories |
+| --- | --- |
+| Python | [WaseemBrain](https://github.com/waseemjutt814/WaseemBrain), [Distributed NAS Framework](https://github.com/waseemjutt814/distributed-nas-framework) |
+| Rust | [AstraGrid](https://github.com/waseemjutt814/astragrid), WaseemBrain runtime components |
+| TypeScript | [Error Solver](https://github.com/waseemjutt814/Error-Solver-), WaseemBrain web interface |
+| C++ | [NextGen Prompt Forge](https://github.com/waseemjutt814/nextgen-prompt-forge) |
+| HTML / UI | Error Solver dashboard and browser-facing tooling |
 
 ## Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/waseemjutt814/WaseemBrain">
-    <img alt="WaseemBrain repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=waseemjutt814&repo=WaseemBrain&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/waseemjutt814/astragrid">
-    <img alt="AstraGrid repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=waseemjutt814&repo=astragrid&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/waseemjutt814/Error-Solver-">
-    <img alt="Error Solver repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=waseemjutt814&repo=Error-Solver-&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/waseemjutt814/distributed-nas-framework">
-    <img alt="Distributed NAS Framework repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=waseemjutt814&repo=distributed-nas-framework&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+| Repository | Focus | Stars |
+| --- | --- | --- |
+| [WaseemBrain](https://github.com/waseemjutt814/WaseemBrain) | Offline-first AI assistant runtime with memory, expert routing, protected actions, and a TypeScript web interface. | ![Stars](https://img.shields.io/github/stars/waseemjutt814/WaseemBrain?style=flat-square) |
+| [AstraGrid](https://github.com/waseemjutt814/astragrid) | Rust mission-control kernel for evidence-led crisis operations. | ![Stars](https://img.shields.io/github/stars/waseemjutt814/astragrid?style=flat-square) |
+| [Error Solver](https://github.com/waseemjutt814/Error-Solver-) | TypeScript code-flow analyzer for numbered source pipelines, broken links, duplicate IDs, and orphaned files. | ![Stars](https://img.shields.io/github/stars/waseemjutt814/Error-Solver-?style=flat-square) |
+| [Distributed NAS Framework](https://github.com/waseemjutt814/distributed-nas-framework) | Research-grade PyTorch framework for distributed neural architecture search and elastic ViT supernets. | ![Stars](https://img.shields.io/github/stars/waseemjutt814/distributed-nas-framework?style=flat-square) |
+| [NextGen Prompt Forge](https://github.com/waseemjutt814/nextgen-prompt-forge) | Offline prompt compiler and implementation-project generator for verifiable engineering prompts. | ![Stars](https://img.shields.io/github/stars/waseemjutt814/nextgen-prompt-forge?style=flat-square) |
 
 ## Contact
 
