@@ -1,8 +1,9 @@
-<h1 align="center">M. Waseem Akram</h1>
+<h1 align="center">MUHAMMAD Waseem Akram</h1>
 
 <p align="center">
-  AI systems builder from Pakistan focused on local-first agents, developer tools,
-  Rust runtimes, Python intelligence systems, and practical automation.
+  <strong>Mobile Hardware & Software Engineer | AI & Embedded Systems Enthusiast</strong><br />
+  Creator of Titan Brain and WaseemBrain, building local-first AI systems,
+  developer tools, Rust runtimes, Python intelligence systems, and practical automation.
 </p>
 
 <p align="center">
