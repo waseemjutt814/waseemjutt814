@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Muhammad Waseem Akram</title>
+  <desc id="description">Hardware, software and practical AI tools. A navy banner with three connected system layers.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b1220" />
+      <stop offset="1" stop-color="#112a36" />
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#2dd4bf" stop-opacity="0.16" />
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 H 0 V 32" fill="none" stroke="#cbd5e1" stroke-opacity="0.055" />
+    </pattern>
+    <clipPath id="bounds"><rect width="1200" height="320" rx="20" /></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="320" fill="url(#background)" />
+    <rect width="1200" height="320" fill="url(#grid)" />
+    <ellipse cx="1020" cy="150" rx="390" ry="280" fill="url(#glow)" />
+    <rect x="56" y="57" width="34" height="3" rx="1.5" fill="#5eead4" />
+    <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+      <text x="56" y="109" fill="#f8fafc" font-size="42" font-weight="700" letter-spacing="-1">Muhammad Waseem Akram</text>
+      <text x="58" y="166" fill="#cbd5e1" font-size="25" font-weight="400">Hardware, software &amp; practical AI tools.</text>
+      <text x="58" y="246" fill="#7dd3c7" font-size="13" font-weight="600" letter-spacing="2.8">INDEPENDENT BUILDER · PAKISTAN</text>
+      <g transform="translate(880 58)">
+        <path d="M 22 31 V 173" fill="none" stroke="#5eead4" stroke-opacity="0.35" stroke-width="2" />
+        <g fill="#122936" stroke="#5eead4" stroke-opacity="0.22">
+          <rect width="236" height="54" rx="12" />
+          <rect y="76" width="236" height="54" rx="12" />
+          <rect y="152" width="236" height="54" rx="12" />
+        </g>
+        <g fill="#5eead4">
+          <circle cx="22" cy="27" r="4" />
+          <circle cx="22" cy="103" r="4" />
+          <circle cx="22" cy="179" r="4" />
+        </g>
+        <g fill="#e2e8f0" font-size="17" font-weight="500">
+          <text x="46" y="33">Hardware</text>
+          <text x="46" y="109">Software</text>
+          <text x="46" y="185">AI systems</text>
+        </g>
+      </g>
+    </g>
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="19.5" fill="none" stroke="#cbd5e1" stroke-opacity="0.12" />
+  </g>
+</svg>

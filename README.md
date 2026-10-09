@@ -1,54 +1,64 @@
-<h1 align="center">MUHAMMAD Waseem Akram</h1>
-
 <p align="center">
-  <a href="https://github.com/waseemjutt814"><img src="https://img.shields.io/github/followers/waseemjutt814?label=Followers&style=for-the-badge&logo=github" alt="Followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=waseemjutt814&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
-  <a href="https://github.com/waseemjutt814?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-9-0e75b6?style=for-the-badge&logo=github" alt="Repos"></a>
+  <img src="assets/profile-banner.svg" alt="Muhammad Waseem Akram — Hardware, software and practical AI tools" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Senior AI Systems Engineer & Local-First Architect</strong><br>
-  Building autonomous, offline-first intelligence systems | Rust • Python • TypeScript • Embedded Systems
+  <strong>Mobile hardware &amp; software engineer · Independent builder · Pakistan</strong>
 </p>
 
----
+<p align="center">
+  <a href="#current-focus">Current focus</a> ·
+  <a href="#public-project">Public project</a> ·
+  <a href="#how-i-work">How I work</a> ·
+  <a href="mailto:waseemjutt814@gmail.com">Contact</a>
+</p>
 
-## 🚀 Current Focus
+## About me
 
-- **WaseemBrain**: Production-grade offline-first AI agent runtime with memory, expert routing & tool use.
-- **AstraGrid**: Rust-based mission control kernel for high-stakes, evidence-led operations.
-- **Error Solver**: Advanced static analysis & code quality tooling.
-- Creating verifiable, reproducible engineering systems that work without internet.
+I'm **Muhammad Waseem Akram**. I work across mobile hardware, software, and AI tooling, with an interest in how the parts of a system connect and behave in everyday use.
 
-## 🔥 Featured Projects
+My work brings together agent workflows, local tools, and developer utilities. I care about clear controls, useful diagnostics, and software that people can understand and operate.
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[WaseemBrain](https://github.com/waseemjutt814/WaseemBrain)** | Offline-first AI assistant with long-term memory & protected actions | Python, Rust, TypeScript | Active |
-| **[AstraGrid](https://github.com/waseemjutt814/astragrid)** | Offline mission-control kernel | Rust | Active |
-| **[Error-Solver-](https://github.com/waseemjutt814/Error-Solver-)** | Intelligent code-flow & architecture analyzer | TypeScript | Active |
-| **[Distributed NAS Framework](https://github.com/waseemjutt814/distributed-nas-framework)** | Research PyTorch NAS framework | Python, PyTorch | Research |
-| **[NextGen Prompt Forge](https://github.com/waseemjutt814/nextgen-prompt-forge)** | Verifiable prompt-to-code compiler | C++ | Active |
+## Current focus
 
-## 🛠️ Tech Stack
+### WaseemBot
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+An AI workspace I am developing for chat, coding assistance, and automation. My current focus is connecting its agents, tools, and runtime components through a consistent interface.
 
-## 📊 GitHub Stats
+**The source is currently private.** For project questions or collaboration, [get in touch](mailto:waseemjutt814@gmail.com?subject=WaseemBot%20collaboration).
 
-- **Public Repositories**: 9
-- **Primary Domains**: Local AI • Autonomous Agents • Developer Tooling • Mission-Critical Systems
-- **Philosophy**: Real code. Offline-first. Production ready.
+### Areas I work with
 
----
+| Area | Focus |
+| :--- | :--- |
+| AI systems | Agent workflows, model integration, memory, and tool use |
+| Software engineering | TypeScript, Python, Rust, and application integration |
+| Hardware and systems | Mobile hardware, troubleshooting, and embedded systems |
+| Developer tools | Source structure, diagnostics, and maintainable workflows |
 
-**Let's build the future of sovereign intelligence.**
+## Public project
 
-Contact: waseemjutt814@gmail.com | Islamabad, Pakistan
+### [Error Solver](https://github.com/waseemjutt814/Error-Solver-)
+
+A TypeScript analyzer for projects that organize source files into numbered pipelines. It checks how those files connect and provides a static HTML dashboard for reviewing the results.
+
+- Detects broken references, duplicate IDs, missing endpoints, and orphaned files.
+- Traces START-to-END flows and reports gaps or loops.
+- Keeps the analysis engine separate from the application source.
+
+[Explore the source and setup guide →](https://github.com/waseemjutt814/Error-Solver-#readme)
+
+## How I work
+
+- **Start with the problem.** Keep the workflow and the person using it in view.
+- **Make behavior visible.** Use clear status, logs, and error messages.
+- **Check the evidence.** Distinguish implemented features from work still in progress.
+- **Improve the details.** Refine setup, naming, documentation, and everyday usability.
+
+## Contact
+
+I'm interested in conversations about practical AI tools, hardware and software integration, and developer workflows.
+
+**Email:** [waseemjutt814@gmail.com](mailto:waseemjutt814@gmail.com)
+
+**GitHub:** [@waseemjutt814](https://github.com/waseemjutt814)
